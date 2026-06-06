@@ -5,6 +5,7 @@
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Formally verified](https://img.shields.io/badge/Theorem%201-Lean%204%20verified-success.svg)](formal_verification/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20572905.svg)](https://doi.org/10.5281/zenodo.20572905)
 
 CAR-MNAR (**C**ausal-discovery **A**ssessment and **R**obustness under **MNAR**)
 is a reproducible evaluation framework for studying how constraint- and
