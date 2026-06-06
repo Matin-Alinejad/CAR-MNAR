@@ -112,6 +112,7 @@ carmnar/            core library (algorithms, mechanisms, metrics, experiments)
 data/               bundled clinical datasets (+ provenance)
 examples/           minimal runnable examples
 formal_verification/ Lean 4 proof of Theorem 1
+supplementary/      paper supplementary material (PDF + LaTeX source)
 tests/              unit / smoke tests
 docs/               reproducibility and design notes
 ```
