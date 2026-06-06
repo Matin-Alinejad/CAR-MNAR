@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use CAR-MNAR, please cite the paper below."
+title: "CAR-MNAR: A Unified Factorial Framework for Robust Causal Discovery under Self-Masking MNAR"
+authors:
+  - family-names: Alinejad
+    given-names: Matin
+  - family-names: Hlaváčková-Schindler
+    given-names: Katerina
+preferred-citation:
+  type: conference-paper
+  title: "CAR-MNAR: A Unified Factorial Framework for Robust Causal Discovery under Self-Masking MNAR"
+  authors:
+    - family-names: Alinejad
+      given-names: Matin
+    - family-names: Hlaváčková-Schindler
+      given-names: Katerina
+  collection-title: "Machine Learning and Knowledge Discovery in Databases (ECML PKDD 2026), Research Track"
+  publisher:
+    name: Springer
+  year: 2026
+repository-code: "https://github.com/Matin-Alinejad/CAR-MNAR"
+license: MIT
