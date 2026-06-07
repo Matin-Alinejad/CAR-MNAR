@@ -19,5 +19,10 @@ preferred-citation:
     name: Springer
   year: 2026
 repository-code: "https://github.com/Matin-Alinejad/CAR-MNAR"
-doi: 10.5281/zenodo.20572905
+version: 1.0.0
+doi: 10.5281/zenodo.20572906
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20572905
+    description: "Concept DOI (resolves to the latest version)"
 license: MIT

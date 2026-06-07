@@ -113,14 +113,24 @@ carmnar/            core library (algorithms, mechanisms, metrics, experiments)
 data/               bundled clinical datasets (+ provenance)
 examples/           minimal runnable examples
 formal_verification/ Lean 4 proof of Theorem 1
-supplementary/      paper supplementary material (PDF + LaTeX source)
+supplementary/      paper supplementary material (PDF)
 tests/              unit / smoke tests
 docs/               reproducibility and design notes
 ```
 
 ## Citation
 
-If you use CAR-MNAR, please cite the paper (see [`CITATION.cff`](CITATION.cff)).
+If you use CAR-MNAR, please cite the paper (see [`CITATION.cff`](CITATION.cff)):
+
+> Alinejad, M., Hlaváčková-Schindler, K. (2026). *CAR-MNAR: A Unified Factorial
+> Framework for Robust Causal Discovery under Self-Masking MNAR.* Machine Learning
+> and Knowledge Discovery in Databases (ECML PKDD 2026), Research Track. Springer.
+
+To cite the archived code and supplementary material:
+
+> Alinejad, M., Hlaváčková-Schindler, K. (2026). *CAR-MNAR: A Unified Factorial
+> Framework for Robust Causal Discovery under Self-Masking MNAR* (v1.0.0). Zenodo.
+> https://doi.org/10.5281/zenodo.20572906
 
 ## License
 
