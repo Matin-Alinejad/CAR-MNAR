@@ -129,8 +129,8 @@ If you use CAR-MNAR, please cite the paper (see [`CITATION.cff`](CITATION.cff)):
 To cite the archived code and supplementary material:
 
 > Alinejad, M., Hlaváčková-Schindler, K. (2026). *CAR-MNAR: A Unified Factorial
-> Framework for Robust Causal Discovery under Self-Masking MNAR* (v1.0.0). Zenodo.
-> https://doi.org/10.5281/zenodo.20572906
+> Framework for Robust Causal Discovery under Self-Masking MNAR* (v1.0.1). Zenodo.
+> https://doi.org/10.5281/zenodo.20580498
 
 ## License
 
